@@ -12,7 +12,7 @@ Desenvolvido por:
 
 ## 1. Resumo do Projeto
 
-Bem-vindo ao projeto de criptografia de texto! Neste projeto, é possivel fazer a criptografa e descriptografa textos de acordo com algumas regras específicas.
+Bem-vindo ao projeto de criptografia de texto! Neste projeto, é possivel fazer a criptografia e descriptografia de textos de acordo com algumas regras específicas.
 
 A criptografia segue seguintes regras:
 
@@ -49,7 +49,7 @@ Por exemplo:
 ## 2. Como Usar
 Para utilizar o descodificador de texto, basta seguir os seguintes passos:
 
-1. Acesse a página da aplicação [clicando aqui](https://Za-Jayne.github.io/alura-challenge-decodificador-de-texto/).
+1. Acesse a página da aplicação [clicando aqui](https://Za-Jayne.github.io/projeto_decodificador-/).
 2. Insira o texto que deseja criptografar ou descriptografar no campo correspondente.
 3. Selecione a opção de criptografia ou descriptografia.
 4. Clique no botão "Criptografar" ou "Descriptografar", dependendo da opção selecionada.
