@@ -62,15 +62,15 @@ Para utilizar o descodificador de texto, basta seguir os seguintes passos:
 ##### Desktop
 
 ###### Proposta
-![Desktop](./src/Decodificador%20-%20Desktop.png);
+![Desktop](./assets/Decodificador%20-%20Desktop.png);
 
 ###### Resultado Final
-![Result](./src/imgDesktop.png)
+![Result](./assets/imgDesktop.png)
 
 
 ##### Mobile
 
-![Mobile](./src/imgMobile.png)
+![Mobile](./assets/imgMobile.png)
 
 ## 4. Tecnologias Utilizadas✅
 
